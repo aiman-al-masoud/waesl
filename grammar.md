@@ -2,7 +2,7 @@
 - grammatical relationships are strictly analytic, use prepositions
 - compound word morphology can be agglutinating/synthetic
 - no articles
-- no possessive pronouns/adjectives ("tu mi" = "mine, to me, for me")
+- no possessive pronouns/adjectives ("tu mi" = "mine, to me, for me", tumitelefon = my telephone)
 - any noun can also be a verb and viceversa
 - optional verb marker for extra clarity (auxiliary verb "du")
 - strict SVO order all the time
