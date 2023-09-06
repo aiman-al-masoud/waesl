@@ -2,5 +2,6 @@
 - any noun can also be a verb and viceversa
 - maybe optional verb marker for extra clarity (auxiliary verb "do")
 - strict SVO order all the time
-- modifier-first head-last (like in english, german, hindi...)
+- only PREmodifier adjectives (like most of english, german, hindi...)
+- premodifiers can be stringed up together with the noun (like in german)
 - zero-copula when possible
