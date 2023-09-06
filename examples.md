@@ -3,6 +3,7 @@ kilo adam audio musikmashin =  many people listen to the music player/machine
 kilo adam du audio musikmashin, cauz musikmashin du du suker musik
 
 musik suker = the music is sweet
+
 suker musik = the sweet music (or: "the sugar is music")
 
 musikadam = musician
