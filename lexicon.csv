@@ -91,7 +91,7 @@ faks      | fax       | fax, send, message
 e-mail    | e-mail    | e-mail, mail, mail letter, message
 esemes    | sms       | sms, message, short text message
 yogurt    | yogurt    | yogurt, dairy product, milk, cheese
-link      | link      | link, nexus, "and" conjunction
+link      | link      | link, nexus, and-conjunction
 app       | app       | app, application, computer program
 futbol    | football  | football, soccer
 fut       | foot      | foot
@@ -117,7 +117,7 @@ ananas    | ananas    | pineapple
 ping pong | ping pong | back and forth, go and come back, send and receive
 viza      | visa      | visa, permit, document, id, personal id, passport, credit card: VISA
 orkestra  | orchestra | orchestra, music band, concert, music festival
-o         | o         | "o" letter, o-shaped, circular, circle, zero, nothing
+o         | o         | the letter o, o-shaped, circular, circle, zero, nothing
 no        | no        | no, not
 frizbi    | freesbee  | freesbee, disc, circle
 suker     | sugar     | sugar, sweet, nice, palatable, desirable, love
