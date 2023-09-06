@@ -1,142 +1,170 @@
-WORD      | ETYMOLOGY   | MEANINGS
-okey      | ok          | yes, good, agree
-adam      | adam        | man, sir, human being, person, someone
-madam     | madame      | woman, lady, madame, someone (feminine) 
-mama      | mama        | mother, maternal, give birth, generate, genesis, origin, start
-papa      | papa        | father, dad, paternal, origin
-hotel     | hotel       | hotel, host
-wah       | waah        | cry, sad, shout, lacrimate
-mao       | meow        | cat, feline, meow
-bar       | bar         | pub, restaurant, bar
-mol       | mall        | mall, market, big building
-bazaar    | bazaar      | bazaar, market, sell, buy, shop, many shops
-suk       | souq        | souq, market, sell, buy, shop
-bravo     | bravo       | good, brave, corageous
-dollar    | dollar      | dollar, money, currency, wealth, buy, rich, richness
-komputer  | computer    | computer, calculator, computation, calculate, math
-banana    | banana      | banana, any fruit
-smartfon  | smartphone  | smartphone
-aifon     | iphone      | iphone, smartphone
-telefon   | telephone   | telephone, phone, call
-mi        | me          | I, me, myself
-gugel     | google      | google up, search, research, want, seek, long for
-tuna      | tuna        | tuna fish, any fish
-bank      | bank        | bank, load, lend, store money, deposit, money transaction
-petrol    | petrol      | petrol, fuel, energy
-klassik   | classic     | normal, usual, common
-motor     | motor       | motor, car, vehicle, -craft
-beng      | bang        | bang, boom, shoot, shot, kill, explosion, exclamation mark, exclamation, sudden
-bum       | boom        | explosion, bomb, (cf. bang)
-makin     | machine     | machine, automatic, mechanical
-kargo     | cargo       | cargo, to ship, to carry, inner content, payload, to transport, transported goods
-park      | park        | park, plants, forest, jungle, green
-super     | super       | super, very good, big, strong, excellent, amazing, great
-taksi     | taxi        | taxi cab, give a ride, accompany
-zoo       | zoo         | zoo, animal, beast
-jel       | gel         | gel, gelatin, soft, squishy
-doktor    | doctor      | doctor, medic, medical, scientist, professor
-aspirin   | aspirin     | aspirin, medical pill
-yoyo      | yoyo        | yoyo, return, come back, repeat, again, and then
-sigaar    | cigar       | cigar, cigarette, tobacco, smoke (sigaar gas)
-klineks   | kleenex     | kleenex, tissue, towel, dry
-kebab     | kebab       | kebab, shawarma, any spicy meat dish
-potato    | potato      | potato, carbohydrates, tubers, roots, food
-pitsa     | pizza       | pizza, pastry, bread
-pasta     | pasta       | pasta, food, carbohydrates
-mango     | mango       | mango, sweet fruit
-cokolat   | chocholate  | chocholate, any sweet
-coko      | chocholate  | chocholate, any sweet
-lemon     | lemon       | lemon, sour, acid, acidic (figurative speech)
-alkohol   | alcohol     | alcohol, intoxicant, disinfectant, addiction
-jiip      | jeep        | jeep, big car, suv, big vehicle
-jinz      | jeans       | jeans, pants, skirt, underwear
-pantalon  | pantaloni   | pants, skirt, underwear
-internet  | internet    | internet, the global community, everyone
-dinamit   | dynamite    | dynamite, explosive, dangerous
-kleb      | club        | club, society, group, association, people, clique, friends
-gas       | gas         | gas, atmosphere, breathe, natural gas (petrol gas)
-barbar    | barbarian   | barbarian, uneducated, stupid, uncouth
-alfab     | alphabet    | alphabet, writing system, write, text, words
-alefa     | alpha       | alpha, first letter of the alphabet, first, number one
-sport     | sport       | sport, agile, physical activity, fair competition
-film      | film        | film, movie, video recording
-kamera    | camera      | video camera, record
-kamis     | camicia     | garment, dress, cloth, fabric, textiles
-satan     | satan       | satan, devil, evil, bad, not-good, un-good, opposite of
-natsi     | nazi        | nazi, dictatorship, unfriendly, bad
-facist    | fascist     | fascist, dictatorship
-ikon      | icon        | icon, symbol, famous, recognize
-akademia  | academia    | academy, school, to teach, to learn, authoritative, learned
-karton    | carton      | carton, cardboard, box
-aluminum  | aluminum    | aluminum, any metal
-plastik   | plastic     | plastic, fake, flimsy, cheap
-kafe      | cafe        | café, coffee, coffee shop
-garaj     | garage      | garage, storage place for industrial stuff, warehouse
-gram      | gram        | mass, weight, to weigh, gram 
-kilo      | kilo        | kilo-, big, strong, large, a lot, very, many, more than one
-meter     | meter       | length, meter 
-liter     | liter       | volume, liter, liquid, fluid
-volt      | volt        | voltage, volt
-amper     | ampere      | current, ampere
-imperator | imperator   | to rule, to guide, emperor, empire, to conquer
-hah/ha/ah | huh         | huh, question/surprise interjection
-musik     | music       | music, to play music
-gitar     | guitar      | guitar, to play guitar, guitar-shaped
-elektro   | electron    | electric, electricity, electron
-supermen  | superman    | hero, brave, corageous
-spaidermen| spiderman   | hero, brave, corageous
-krem      | cream       | cream, spread
-quak      | quack       | duck, bird
-video     | video       | video, look, see, watch
-faks      | fax         | fax, send, message
-e-mail    | e-mail      | e-mail, mail, mail letter, message
-esemes    | sms         | sms, message, short text message
-yogurt    | yogurt      | yogurt, dairy product, milk, cheese
-link      | link        | link, nexus, and (conjunction), with
-app       | app         | app, application, computer program
-futbol    | football    | football, soccer
-fut       | foot        | foot
-bol       | ball        | ball
-tekno     | technology  | technology, technique, progress, practical knowledge
-filosof   | philosophy  | philosophy, knowledge, philosopher (filosofadam), philosopheress (filoso(f)madam)
-fisik     | physics     | physics, science
-kimik     | chemistry   | chemistry, substance
-jeograf   | geography   | geography, terrain, earth, world
-jeo       | geo         | geo, geography, terrain, earth, world, planet
-bioloj    | biology     | life, biology, organism, living thing
-demokrat  | democracy   | democracy, free elections, free speech, liberal
-radio     | radio       | radio, broadcast, long range communcation
-vaniila   | vanilla     | vanilla, sweet, nice, basic
-televizon | television  | television
-salad     | salad       | salad, vegetables, green
-audio     | audio       | audio, hear, ear
-desktop   | desktop     | desktop, wallpaper, background, desk
-gratis    | gratis      | gratis, free of charge
-kornic    | corniche    | corniche, lungomare, beach, sea
-aikia     | IKEA        | furniture, home, homely, house, DIY, home-made
-ananas    | ananas      | pineapple
-ping pong | ping pong   | back and forth, go and come back, send and receive
-viza      | visa        | visa, permit, document, id, personal id, passport, credit card: VISA
-orkestra  | orchestra   | orchestra, music band, concert, music festival
-o         | o           | the letter o, o-shaped, circular, circle, zero, nothing
-no        | no          | no, not
-frizbi    | freesbee    | freesbee, disc, circle
-suker     | sugar       | sugar, sweet, nice, palatable, desirable, love
-tiktik    | tik-tok     | clock, time, wristwatch, fast
-paswor    | password    | password, secret
-iusernam  | username    | username, name, id
-avatar    | avatar      | avatar, proxy, image, projection
-emoji     | emoji       | emoji, image, smily face, emotion
-sofwer    | software    | software, algorithm, res cogitans
-harwer    | hardware    | hardware, res extensa
-tcat      | chat        | chat, talk, converse
-selfi     | selfie      | selfie, picture, snapshot, vanity, face
-meme      | meme        | meme, trope, stereotype, idea
-yoga      | yoga        | yoga, exercise, self control
-virus     | virus       | virus
-hactag    | hashtag     | hashtag
-suci      | sushi       | sushi
-sapon     | soap        | soap, wash, clean, shower
-miki      | mickey mouse| mouse, rat, rodent, small mammal
-radar     | radar       | radar, detect, find
-sonar     | sonar       | sonar
+WORD      | ETYMOLOGY    | MEANINGS
+okey      | ok           | yes, good, agree
+adam      | adam         | man, sir, human being, person, someone
+madam     | madame       | woman, lady, madame, someone (feminine) 
+mama      | mama         | mother, maternal, give birth, generate, genesis, origin, start
+papa      | papa         | father, dad, paternal, origin
+hotel     | hotel        | hotel, host
+wah       | waah         | cry, sad, shout, lacrimate
+mao       | meow         | cat, feline, meow
+bar       | bar          | pub, restaurant, bar
+mol       | mall         | mall, market, big building
+bazaar    | bazaar       | bazaar, market, sell, buy, shop, many shops
+suk       | souq         | souq, market, sell, buy, shop
+bravo     | bravo        | good, brave, corageous
+dollar    | dollar       | dollar, money, currency, wealth, buy, rich, richness
+komputer  | computer     | computer, calculator, computation, calculate, math
+banana    | banana       | banana, any fruit
+smartfon  | smartphone   | smartphone
+aifon     | iphone       | iphone, smartphone
+telefon   | telephone    | telephone, phone, call
+mi        | me           | I, me, myself
+gugel     | google       | google up, search, research, want, seek, long for
+tuna      | tuna         | tuna fish, any fish
+bank      | bank         | bank, load, lend, store money, deposit, money transaction
+petrol    | petrol       | petrol, fuel, energy
+klassik   | classic      | normal, usual, common
+motor     | motor        | motor, car, vehicle, -craft
+beng      | bang         | bang, boom, shoot, shot, kill, explosion, exclamation mark, exclamation, sudden
+bum       | boom         | explosion, bomb, (cf. bang)
+makin     | machine      | machine, automatic, mechanical
+kargo     | cargo        | cargo, to ship, to carry, inner content, payload, to transport, transported goods
+park      | park         | park, plants, forest, jungle, green
+super     | super        | super, very good, big, strong, excellent, amazing, great
+taksi     | taxi         | taxi cab, give a ride, accompany
+zoo       | zoo          | zoo, animal, beast
+jel       | gel          | gel, gelatin, soft, squishy
+doktor    | doctor       | doctor, medic, medical, scientist, professor
+aspirin   | aspirin      | aspirin, medical pill
+yoyo      | yoyo         | yoyo, return, come back, repeat, again, and then
+sigaar    | cigar        | cigar, cigarette, tobacco, smoke (sigaar gas)
+klineks   | kleenex      | kleenex, tissue, towel, dry
+kebab     | kebab        | kebab, shawarma, any spicy meat dish
+potato    | potato       | potato, carbohydrates, tubers, roots, food
+pitsa     | pizza        | pizza, pastry, bread
+pasta     | pasta        | pasta, food, carbohydrates
+mango     | mango        | mango, sweet fruit
+cokolat   | chocholate   | chocholate, any sweet
+coko      | chocholate   | chocholate, any sweet
+lemon     | lemon        | lemon, sour, acid, acidic (figurative speech)
+alkohol   | alcohol      | alcohol, intoxicant, disinfectant, addiction
+jiip      | jeep         | jeep, big car, suv, big vehicle
+jinz      | jeans        | jeans, pants, skirt, underwear
+pantalon  | pantaloni    | pants, skirt, underwear
+internet  | internet     | internet, the global community, everyone
+dinamit   | dynamite     | dynamite, explosive, dangerous
+kleb      | club         | club, society, group, association, people, clique, friends
+gas       | gas          | gas, atmosphere, breathe, natural gas (petrol gas)
+barbar    | barbarian    | barbarian, uneducated, stupid, uncouth
+alfab     | alphabet     | alphabet, writing system, write, text, words
+alefa     | alpha        | alpha, first letter of the alphabet, first, number one
+sport     | sport        | sport, agile, physical activity, fair competition
+film      | film         | film, movie, video recording
+kamera    | camera       | video camera, record
+kamis     | camicia      | garment, dress, cloth, fabric, textiles
+satan     | satan        | satan, devil, evil, bad, not-good, un-good, opposite of
+natsi     | nazi         | nazi, dictatorship, unfriendly, bad
+facist    | fascist      | fascist, dictatorship
+ikon      | icon         | icon, symbol, famous, recognize
+akademia  | academia     | academy, school, to teach, to learn, authoritative, learned
+karton    | carton       | carton, cardboard, box, cartoon
+aluminum  | aluminum     | aluminum, any metal
+plastik   | plastic      | plastic, fake, flimsy, cheap
+kafe      | cafe         | café, coffee, coffee shop
+garaj     | garage       | garage, storage place for industrial stuff, warehouse
+gram      | gram         | mass, weight, to weigh, gram 
+kilo      | kilo         | kilo-, big, strong, large, a lot, very, many, more than one
+meter     | meter        | length, meter 
+liter     | liter        | volume, liter, liquid, fluid
+volt      | volt         | voltage, volt
+amper     | ampere       | current, ampere
+imperator | imperator    | to rule, to guide, emperor, empire, to conquer
+hah/ha/ah | huh          | huh, question/surprise interjection
+musik     | music        | music, to play music
+gitar     | guitar       | guitar, to play guitar, guitar-shaped
+elektro   | electron     | electric, electricity, electron
+supermen  | superman     | hero, brave, corageous
+spaidermen| spiderman    | hero, brave, corageous
+krem      | cream        | cream, spread
+quak      | quack        | duck, bird
+video     | video        | video, look, see, watch
+faks      | fax          | fax, send, message
+e-mail    | e-mail       | e-mail, mail, mail letter, message
+esemes    | sms          | sms, message, short text message
+yogurt    | yogurt       | yogurt, dairy product, milk, cheese
+link      | link         | link, nexus, and (conjunction), with
+app       | app          | app, application, computer program
+futbol    | football     | football, soccer
+fut       | foot         | foot
+bol       | ball         | ball
+tekno     | technology   | technology, technique, progress, practical knowledge
+filosof   | philosophy   | philosophy, knowledge, philosopher (filosofadam), philosopheress (filoso(f)madam)
+fisik     | physics      | physics, science
+kimik     | chemistry    | chemistry, substance
+jeograf   | geography    | geography, terrain, earth, world
+jeo       | geo          | geo, geography, terrain, earth, world, planet
+bioloj    | biology      | life, biology, organism, living thing
+demokrat  | democracy    | democracy, free elections, free speech, liberal
+radio     | radio        | radio, broadcast, long range communcation
+vaniila   | vanilla      | vanilla, sweet, nice, basic
+televizon | television   | television
+salad     | salad        | salad, vegetables, green
+audio     | audio        | audio, hear, ear
+desktop   | desktop      | desktop, wallpaper, background, desk
+gratis    | gratis       | gratis, free of charge
+kornic    | corniche     | corniche, lungomare, beach, sea
+aikia     | IKEA         | furniture, home, homely, house, DIY, home-made
+ananas    | ananas       | pineapple
+ping pong | ping pong    | back and forth, go and come back, send and receive
+viza      | visa         | visa, permit, document, id, personal id, passport, credit card: VISA
+orkestra  | orchestra    | orchestra, music band, concert, music festival
+o         | o            | the letter o, o-shaped, circular, circle, zero, nothing
+no        | no           | no, not
+frizbi    | freesbee     | freesbee, disc, circle
+suker     | sugar        | sugar, sweet, nice, palatable, desirable, love
+tiktik    | tik-tok      | clock, time, wristwatch, fast
+paswor    | password     | password, secret
+iusernam  | username     | username, name, id
+avatar    | avatar       | avatar, proxy, image, projection
+emoji     | emoji        | emoji, image, smily face, emotion
+sofwer    | software     | software, algorithm, res cogitans
+harwer    | hardware     | hardware, res extensa
+tcat      | chat         | chat, talk, converse
+selfi     | selfie       | selfie, picture, snapshot, vanity, face
+meme      | meme         | meme, trope, stereotype, idea
+yoga      | yoga         | yoga, exercise, self control
+virus     | virus        | virus
+hactag    | hashtag      | hashtag
+suci      | sushi        | sushi
+sapon     | soap         | soap, wash, clean, shower
+miki      | mickey mouse | mouse, rat, rodent, small mammal
+radar     | radar        | radar, detect, find
+sonar     | sonar        | sonar
+bus       | bus          | bus
+amen      | amen         | amen
+bakkalur  | baccalaureate| bachelor's degree
+bazooka   | bazooka      | bazooka
+bingo     | bingo        | bingo
+grafin    | graphene     | graphene, carbon, pencil
+biskut    | biscuit      | biscuit, cookie, sweet
+karikatur | caricature   | caricature, exaggeration
+krusant   | croissant    | croissant
+kari      | curry        | curry, spice, yellow
+disco     | disco        | disco
+domino    | domino       | domino
+filee     | filet        | filet, meat, cut
+haker     | hacker       | hacker
+hamburge  | hamburger    | hamburger, sandwitch
+laser     | laser        | laser
+massaaj   | massage      | massage
+mini      | mini         | mini, small
+nikotin   | nicotine     | nicotine
+neon      | neon         | neo
+nailon    | nylon        | nylon, thread, wire
+olimpic   | olimpic      | olimpic
+faron     | pharaoh      | pharaoh
+sardin    | sardine      | sardine
+salmon    | salmon       | salmon
+skooter   | scooter      | scooter
+campu     | shampoo      | shampoo
+vitamin   | vitamin      | vitamin, fruit

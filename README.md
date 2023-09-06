@@ -19,5 +19,14 @@ The writing system follows the one-letter-to-sound principle. Some phonemes have
 - https://www.ezglot.com/words?l=&w=idea&submit=Search
 - https://www.simplish.org/learn-basic-english/international-words/
 - https://cognitiontoday.com/universal-words-iconicity-cognates-psycho-linguistics/
+- https://en.wikipedia.org/wiki/List_of_loanwords_in_Chinese
+
+## Control Languages
+- english
+- romance languages (italian, french, spanish)
+- arabic
+- hindi
+- russian
+- chinese
 
 🦫 🦫 🦫 🦫 🦫 🦫 🦫 🦫 
