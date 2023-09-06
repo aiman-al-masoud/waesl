@@ -1,4 +1,4 @@
-# World Auxiliary Extended Semantics Language WAESL (weasel)
+# Worldwide Auxiliary Extended Semantics Language WAESL (weasel)
 
 > Words for the World 📙🌎
 >
