@@ -14,5 +14,5 @@ shokolat shatan tu mao = chocholate is evil/bad to cats
 
 tuna tu mao  =  the cat has the fish (the fish is to the cat)
 
-kilokey = kilo okey = very good
+kilokkey = kilo okey = very good
 
