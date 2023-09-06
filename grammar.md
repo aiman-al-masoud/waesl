@@ -1,4 +1,6 @@
 # Grammar:
+- grammatical relationships are strictly analytic
+- compound words can be agglutinating/synthetic
 - any noun can also be a verb and viceversa
 - maybe optional verb marker for extra clarity (auxiliary verb "do")
 - strict SVO order all the time
