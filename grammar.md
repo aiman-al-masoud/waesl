@@ -2,7 +2,7 @@
 - grammatical relationships are strictly analytic
 - compound words can be agglutinating/synthetic
 - any noun can also be a verb and viceversa
-- maybe optional verb marker for extra clarity (auxiliary verb "du")
+- optional verb marker for extra clarity (auxiliary verb "du")
 - strict SVO order all the time
 - only PREmodifier adjectives (like most of english, german, hindi...)
 - premodifiers can be stringed up together with the noun (like in german)
