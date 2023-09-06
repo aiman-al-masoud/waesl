@@ -2,6 +2,7 @@
 - grammatical relationships are strictly analytic
 - compound word morphology can be agglutinating/synthetic
 - no articles
+- no possessive pronouns
 - any noun can also be a verb and viceversa
 - optional verb marker for extra clarity (auxiliary verb "du")
 - strict SVO order all the time
