@@ -1,5 +1,5 @@
 # Grammar:
-- grammatical relationships are strictly analytic
+- grammatical relationships are strictly analytic, use prepositions
 - compound word morphology can be agglutinating/synthetic
 - no articles
 - no pronouns
