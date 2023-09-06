@@ -2,7 +2,7 @@
 
 > Words for the World 📙🌎
 >
-> _alphab tu jeo_
+> _alfab tu jeo_
 
 ## Some Useful Links:
 - https://en.wikipedia.org/wiki/Cross-linguistic_onomatopoeias
