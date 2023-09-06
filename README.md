@@ -11,7 +11,7 @@ Useful Links:
 - https://cognitiontoday.com/universal-words-iconicity-cognates-psycho-linguistics/
 
 
-
+🦫 🦫 🦫 🦫 
 
 MAYBE
 zip
