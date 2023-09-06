@@ -1,4 +1,4 @@
-# International Auxiliary Extended Semantics Language IAESL (yeesel)
+# World Auxiliary Extended Semantics Language IAESL (weesel)
 
 > Words for the World 📙🌎
 >
