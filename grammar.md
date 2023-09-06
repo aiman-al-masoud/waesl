@@ -12,4 +12,4 @@
 - PREpositions, not postpositions
 - nominative/accusative only through word order
 - dative possessive (and genitive) with "tu" preposition, meaning "to"
-- every inanimate verb argument is accusative, except for animate things???
+- every inanimate verb argument is accusative, except for animate things??? "no listen TO something"
