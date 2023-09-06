@@ -12,3 +12,5 @@ mao gugel tuna  = the cat serches for (or wants) fish
 shokolat shatan tu mao = chocholate is evil/bad to cats
 
 
+tuna tu mao  =  the cat has the fish (the fish is to the cat)
+
