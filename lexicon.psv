@@ -13,7 +13,7 @@ bazaar    | bazaar    | bazaar, market, sell, buy, shop, many shops
 suk       | souq      | souq, market, sell, buy, shop
 bravo     | bravo     | good, brave, corageous
 dollar    | dollar    | dollar, money, currency, wealth, buy, rich, richness
-computer  | computer  | computer, calculator
+komputer  | computer  | computer, calculator
 banana    | banana    | banana, any fruit
 smartfon  | smartphone| smartphone
 telefon   | telephone | telephone, phone, call
@@ -22,18 +22,18 @@ gugel     | google    | google up, search, research, want
 tuna      | tuna      | tuna fish, any fish
 bank      | bank      | bank, load, lend, store money, deposit, money transaction
 petrol    | petrol    | petrol, fuel, energy
-classic   | classic   | normal, usual, common
+klassik   | classic   | normal, usual, common
 motor     | motor     | motor, car, vehicle, -craft
 beng      | bang      | bang, boom, shoot, shot, kill, explosion, exclamation mark, exclamation, sudden
 bum       | boom      | explosion, bomb, (cf. bang)
-mashin    | machine   | machine, automatic
-cargo     | cargo     | cargo, to ship, to carry, inner content, payload, to transport, transported goods
+macin     | machine   | machine, automatic
+kargo     | cargo     | cargo, to ship, to carry, inner content, payload, to transport, transported goods
 park      | park      | park, plants, forest, jungle, green
 super     | super     | super, very good, big, strong, excellent, amazing, great
 taksi     | taxi      | taxi cab, give a ride, accompany
 zoo       | zoo       | zoo, animal, beast
 jel       | gel       | gel, gelatin, soft, squishy
-doctor    | doctor    | doctor, medic, medical, scientist, professor
+doktor    | doctor    | doctor, medic, medical, scientist, professor
 aspirin   | aspirin   | aspirin, medical pill
 yoyo      | yoyo      | yoyo, return, come back, repeat, again, and then
 sigaar    | cigar     | cigar, cigarette, tobacco, smoke (sigaar gas)
@@ -43,33 +43,33 @@ potato    | potato    | potato, carbohydrates, tubers, roots, food
 pitsa     | pizza     | pizza, pastry, bread
 pasta     | pasta     | pasta, food, carbohydrates
 mango     | mango     | mango, sweet fruit
-shokolat  | chocholate| chocholate, any sweet
-shoko     | chocholate| chocholate, any sweet
+cokolat   | chocholate| chocholate, any sweet
+coko      | chocholate| chocholate, any sweet
 lemon     | lemon     | lemon, sour, acid, acidic (figurative speech)
-alcohol   | alcohol   | alcohol, intoxicant, disinfectant, addiction
+alkohol   | alcohol   | alcohol, intoxicant, disinfectant, addiction
 jiip      | jeep      | jeep, big car, suv, big vehicle
 jinz      | jeans     | jeans, pants, skirt, underwear
 pantalon  | pantaloni | pants, skirt, underwear
 internet  | internet  | internet, the global community, everyone
 dinamit   | dynamite  | dynamite, explosive, dangerous
-cleb      | club      | club, society, group, association, people, clique, friends
+kleb      | club      | club, society, group, association, people, clique, friends
 gas       | gas       | gas, atmosphere, breathe, natural gas (petrol gas)
 barbar    | barbarian | barbarian, uneducated, stupid, uncouth
 alfab     | alphabet  | alphabet, writing system, write, text, words
 alefa     | alpha     | alpha, first letter of the alphabet, first, number one
 sport     | sport     | sport, agile, physical activity, fair competition
 film      | film      | film, movie, video recording
-camera    | camera    | video camera, record
-camis     | camicia   | garment, dress, cloth, fabric, textiles
-shatan    | satan     | satan, devil, evil, bad, not-good, un-good, opposite of
+kamera    | camera    | video camera, record
+kamis     | camicia   | garment, dress, cloth, fabric, textiles
+satan     | satan     | satan, devil, evil, bad, not-good, un-good, opposite of
 natsi     | nazi      | nazi, dictatorship, unfriendly, bad
-fashist   | fascist   | fascist, dictatorship
-icon      | icon      | icon, symbol, famous, recognize
-academia  | academia  | academy, school, to teach, to learn, authoritative, learned
-carton    | carton    | carton, cardboard, box
+facist    | fascist   | fascist, dictatorship
+ikon      | icon      | icon, symbol, famous, recognize
+akademia  | academia  | academy, school, to teach, to learn, authoritative, learned
+karton    | carton    | carton, cardboard, box
 aluminum  | aluminum  | aluminum, any metal
-plastic   | plastic   | plastic, fake, flimsy, cheap
-cafe      | cafe      | café, coffee, coffee shop
+plastik   | plastic   | plastic, fake, flimsy, cheap
+kafe      | cafe      | café, coffee, coffee shop
 garaj     | garage    | garage, storage place for industrial stuff, warehouse
 gram      | gram      | mass, weight, to weigh, gram 
 kilo      | kilo      | kilo-, big, strong, large, a lot, very, many, more than one
@@ -81,10 +81,10 @@ imperator | imperator | to rule, to guide, emperor, empire, to conquer
 hah/ha    | huh       | huh, question/surprise interjection
 musik     | music     | music, to play music
 gitar     | guitar    | guitar, to play guitar
-electro   | electron  | electric, electricity, electron
+elektro   | electron  | electric, electricity, electron
 supermen  | superman  | hero, brave, corageous
 spaidermen| spiderman | hero, brave, corageous
-crem      | cream     | cream, spread
+krem      | cream     | cream, spread
 quak      | quack     | duck, bird
 video     | video     | video, look, see, watch
 faks      | fax       | fax, send, message
@@ -98,12 +98,12 @@ fut       | foot      | foot
 bol       | ball      | ball
 tekno     | technology| technology, technique, progress, practical knowledge
 filosof   | philosophy| philosophy, knowledge, philosopher (filosofadam), philosopheress (filoso(f)madam)
-fisic     | physics   | physics, science
+fisik     | physics   | physics, science
 kimik     | chemistry | chemistry, substance
 jeograf   | geography | geography, terrain, earth, world
 jeo       | geo       | geo, geography, terrain, earth, world, planet
 bioloj    | biology   | life, biology, organism, living thing
-democrat  | democracy | democracy, free elections, free speech, liberal
+demokrat  | democracy | democracy, free elections, free speech, liberal
 radio     | radio     | radio, broadcast, long range communcation
 vaniila   | vanilla   | vanilla, sweet, nice, basic
 televizon | television| television
@@ -111,7 +111,7 @@ salad     | salad     | salad, vegetables, green
 audio     | audio     | audio, hear, ear
 desktop   | desktop,  | desktop, wallpaper, background, desk
 gratis    | gratis    | gratis, free of charge
-cornish   | corniche  | corniche, lungomare, beach, sea
+kornic    | corniche  | corniche, lungomare, beach, sea
 aikia     | IKEA      | furniture, home, homely, house, DIY, home-made
 ananas    | ananas    | pineapple
 ping pong | ping pong | back and forth, go and come back, send and receive
@@ -127,10 +127,10 @@ avatar    | avatar    | avatar, proxy, image, projection
 emoji     | emoji     | emoji, image, smily face
 sofwer    | software  | software, algorithm, res cogitans
 harwer    | hardware  | hardware, res extensa
-tshat     | chat      | chat, talk, converse
+tcat      | chat      | chat, talk, converse
 selfi     | selfie    | selfie, picture, snapshot, vanity
 meme      | meme      | meme, trope, stereotype, idea
 yoga      | yoga      | yoga, exercise, self control
 virus     | virus     | virus
-hashtag   | hashtag   | hashtag
-sushi     | sushi     | sushi
+hactag    | hashtag   | hashtag
+suci      | sushi     | sushi

@@ -3,6 +3,9 @@ meme
 zip
 indomie
 noodles
+opium   opiumvideo (hallucination)
+dettol
+deluxe
 maggi
 boomerang
 kangaroo
@@ -224,3 +227,4 @@ North Atlantic Treaty Organization (NATO)
 United Nations Security Council (UNSC)
 pythagoras
 mass media
+wc
