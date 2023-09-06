@@ -9,6 +9,6 @@ musikadam = musician
 
 mao gugel tuna  = the cat serches for (or wants) fish
 
-
+shokolat shatan tu mao = chocholate is evil/bad to cats
 
 
