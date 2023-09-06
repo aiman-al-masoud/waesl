@@ -1,6 +1,6 @@
 # Grammar:
 - grammatical relationships are strictly analytic
-- compound words can be agglutinating/synthetic
+- compound word morphology can be agglutinating/synthetic
 - no articles
 - any noun can also be a verb and viceversa
 - optional verb marker for extra clarity (auxiliary verb "du")
