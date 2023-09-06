@@ -9,6 +9,6 @@
 - strict SVO order all the time
 - adjectives are always PREmodifiers (like most of english, german, hindi...)
 - premodifiers can be stringed up together with the noun (like in german)
-- zero-copula when possible
+- zero-copula whenever possible
 - PREpositions, not postpositions
 - dative possessive (with "tu" preposition, meaning "to")
