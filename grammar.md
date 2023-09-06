@@ -3,7 +3,7 @@
 - compound word morphology can be agglutinating/synthetic
 - no articles
 - no pronouns
-- no possessive pronouns
+- no possessive pronouns ("tu mi" = "mine, to me, for me")
 - any noun can also be a verb and viceversa
 - optional verb marker for extra clarity (auxiliary verb "du")
 - strict SVO order all the time
@@ -11,4 +11,4 @@
 - premodifiers can be stringed up together with the noun (like in german)
 - zero-copula whenever possible
 - PREpositions, not postpositions
-- dative possessive (with "tu" preposition, meaning "to", "tu mi" = "mine, to me")
+- dative possessive (with "tu" preposition, meaning "to")
