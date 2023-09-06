@@ -11,4 +11,4 @@
 - premodifiers can be stringed up together with the noun (like in german)
 - zero-copula whenever possible
 - PREpositions, not postpositions
-- dative possessive (with "tu" preposition, meaning "to")
+- dative possessive (with "tu" preposition, meaning "to", "tu mi" = "mine, for me")
