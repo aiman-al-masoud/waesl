@@ -4,7 +4,7 @@
 - any noun can also be a verb and viceversa
 - optional verb marker for extra clarity (auxiliary verb "du")
 - strict SVO order all the time
-- only PREmodifier adjectives (like most of english, german, hindi...)
+- adjectives are always PREmodifiers (like most of english, german, hindi...)
 - premodifiers can be stringed up together with the noun (like in german)
 - zero-copula when possible
 - dative possessive (with "tu" preposition, meaning "to")
