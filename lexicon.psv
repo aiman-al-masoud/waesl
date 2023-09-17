@@ -147,11 +147,11 @@ bakkalur  | baccalaureate| bachelor's degree
 bazooka   | bazooka      | bazooka
 bingo     | bingo        | bingo
 biskut    | biscuit      | biscuit, cookie, sweet
-karikatur | caricature   | caricature, exaggeration
+karikatur | caricature   | caricature, exaggeration, funny
 krusant   | croissant    | croissant
 kari      | curry        | curry, spice, yellow
 disco     | disco        | disco
-domino    | domino       | domino
+domino    | domino       | domino, fall down
 filet     | filet        | filet, meat, cut
 haker     | hacker       | hacker
 hamburge  | hamburger    | hamburger, sandwich
@@ -168,3 +168,7 @@ salmon    | salmon       | salmon
 skuter    | scooter      | scooter
 campuu    | shampoo      | shampoo
 vitamin   | vitamin      | vitamin, fruit
+robot     | robot        | robot
+test	  | test         | test
+jeneral   | general      | general
+zombi	  | zombie       | zombie, ghost
