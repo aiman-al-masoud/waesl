@@ -4,15 +4,15 @@ adam      | adam         | man, sir, human being, person, someone
 madam     | madame       | woman, lady, madame, someone (feminine) 
 mama      | mama         | mother, maternal, give birth, generate, genesis, origin, start
 papa      | papa         | father, dad, paternal, origin
+mao       | meow         | cat, feline, meow
 hotel     | hotel        | hotel, host
 wah       | waah         | cry, sad, shout, lacrimate
-mao       | meow         | cat, feline, meow
 bar       | bar          | pub, restaurant, bar
 mol       | mall         | mall, market, big building
 bazaar    | bazaar       | bazaar, market, sell, buy, shop, many shops
 suk       | souq         | souq, market, sell, buy, shop
 bravo     | bravo        | good, brave, corageous
-dollar    | dollar       | dollar, money, currency, wealth, buy, rich, richness
+dolar     | dollar       | dollar, money, currency, wealth, buy, rich, richness
 komputer  | computer     | computer, calculator, computation, calculate, math
 banana    | banana       | banana, any fruit
 smartfon  | smartphone   | smartphone
@@ -23,7 +23,7 @@ gugel     | google       | google up, search, research, want, seek, long for
 tuna      | tuna         | tuna fish, any fish
 bank      | bank         | bank, load, lend, store money, deposit, money transaction
 petrol    | petrol       | petrol, fuel, energy
-klassik   | classic      | normal, usual, common
+klasik    | classic      | normal, usual, common
 motor     | motor        | motor, car, vehicle, -craft
 beng      | bang         | bang, boom, shoot, shot, kill, explosion, exclamation mark, exclamation, sudden
 bum       | boom         | explosion, bomb, (cf. bang)
@@ -41,7 +41,7 @@ sigaar    | cigar        | cigar, cigarette, tobacco, smoke (sigaar gas)
 klineks   | kleenex      | kleenex, tissue, towel, dry
 kebab     | kebab        | kebab, shawarma, any spicy meat dish
 potato    | potato       | potato, carbohydrates, tubers, roots, food
-pitsa     | pizza        | pizza, pastry, bread
+piza      | pizza        | pizza, pastry, bread
 pasta     | pasta        | pasta, food, carbohydrates
 mango     | mango        | mango, sweet fruit
 cokolat   | chocholate   | chocholate, any sweet
@@ -63,8 +63,8 @@ film      | film         | film, movie, video recording
 kamera    | camera       | video camera, record
 kamis     | camicia      | garment, dress, cloth, fabric, textiles
 satan     | satan        | satan, devil, evil, bad, not-good, un-good, opposite of
-natsi     | nazi         | nazi, dictatorship, unfriendly, bad
-facist    | fascist      | fascist, dictatorship
+nazi      | nazi         | nazi, dictatorship, unfriendly, bad
+faci      | fascist      | fascist, dictatorship
 ikon      | icon         | icon, symbol, famous, recognize
 akademia  | academia     | academy, school, to teach, to learn, authoritative, learned
 karton    | carton       | carton, cardboard, box, cartoon
@@ -143,8 +143,8 @@ radar     | radar        | radar, detect, find
 sonar     | sonar        | sonar
 bus       | bus          | bus
 amen      | amen         | amen
-bakkalur  | baccalaureate| bachelor's degree
-bazooka   | bazooka      | bazooka
+bakalur   | baccalaureate| bachelor's degree, educated
+bazooka   | bazooka      | bazooka, weapon, destroy
 bingo     | bingo        | bingo
 biskut    | biscuit      | biscuit, cookie, sweet
 karikatur | caricature   | caricature, exaggeration, funny
@@ -161,7 +161,7 @@ mini      | mini         | mini, small, little
 nikotin   | nicotine     | nicotine
 neon      | neon         | neon
 nailon    | nylon        | nylon, thread, wire
-olimpic   | olimpic      | olimpic
+olimpik   | olimpic      | olimpic
 faraon    | pharaoh      | pharaoh
 sardin    | sardine      | sardine
 salmon    | salmon       | salmon
@@ -170,8 +170,9 @@ campuu    | shampoo      | shampoo
 vitamin   | vitamin      | vitamin, fruit
 robot     | robot        | robot
 test	  | test         | test
-jeneral   | general      | general
-zombi	  | zombie       | zombie, ghost
+jeneral   | general      | general, commander, chief
+zombi	  | zombie       | zombie, ghost, monster
 sahara	  | sahara       | desert, deserted, abandoned, wasteland, hot
-antartika | anctartica   | anctartica, snow, ice, cold
+anartika  | anctartica   | anctartica, snow, ice, cold
 android	  | android      | android
+soviet    | soviet       | soviet, communist
