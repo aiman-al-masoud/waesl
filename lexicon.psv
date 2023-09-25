@@ -172,5 +172,6 @@ robot     | robot        | robot
 test	  | test         | test
 jeneral   | general      | general
 zombi	  | zombie       | zombie, ghost
-sahara 	  | sahara       | desert, deserted, abandoned, wasteland, hot
+sahara	  | sahara       | desert, deserted, abandoned, wasteland, hot
 antartika | anctartica   | anctartica, snow, ice, cold
+android	  | android      | android
