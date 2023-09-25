@@ -1,6 +1,6 @@
 # Grammar
 
-These are very, very, very rough ideas of what a grammar for this language may look like, they're open to suggestions. Crafting the grammar (at least for a non-linguist like me) is definitely the hardest part of designing such an auxiliary language, followed perhaps by defining a simple enough phonology that will not overly alter the words in the lexicon from their original form.
+These are very, very, very rough ideas of what a grammar for this language may look like, they're open to suggestions. Crafting the grammar (at least for a non-linguist like me) is definitely the hardest part of designing such an auxiliary language, followed perhaps by defining a simple enough phonology that will not compromise their recognizability.
 
 - grammatical relationships are represented in strictly analytic fashion => use prepositions
 - "concept-building" morphology, instead, can be agglutinating (and, just a little maybe, synthetic) but very simple and always about concatenation
