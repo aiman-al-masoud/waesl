@@ -1,9 +1,9 @@
 # Worldwide Auxiliary Extended Semantics Language WAESL (weasel)
 
 > 
-> alfab tu jeo 📙🌎
+> alfab tu jeo! 📙🌎
 > 
-> _Words for the World_ 📙🌎
+> _Words for the World!_ 📙🌎
 >
 
 Welcome to my first [conlang](https://en.wikipedia.org/wiki/Constructed_language) project!
